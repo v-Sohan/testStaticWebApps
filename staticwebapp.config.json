@@ -1,7 +1,7 @@
 {
     "forwardingGateway": {
         "allowedForwardedHosts": [
-            "appgw0823.japaneast.cloudapp.azure.com/",
+            "appgw0823.japaneast.cloudapp.azure.com",
             "www.example.org",
             "staging.example.org"
         ]
